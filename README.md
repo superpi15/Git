@@ -10,3 +10,8 @@ git add .
 git push origin
   upload to remote
   https://git-scm.com/book/zh-tw/v1/Git-%E5%9F%BA%E7%A4%8E-%E8%88%87%E9%81%A0%E7%AB%AF%E5%8D%94%E5%90%8C%E5%B7%A5%E4%BD%9C
+
+
+##Lost data in detached head
+  ###Restore: https://w3c.hexschool.com/git/10bf7677
+  ###Restore: https://stackoverflow.com/questions/26893931/git-detached-head-lost-data
