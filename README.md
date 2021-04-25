@@ -14,3 +14,9 @@
 ## Lost data in detached head
   - Restore: https://w3c.hexschool.com/git/10bf7677
   - Restore: https://stackoverflow.com/questions/26893931/git-detached-head-lost-data
+
+
+## VNC in ubuntu 20
+
+  - basic https://www.it145.com/9/14104.html 
+  - in case X11 broken with msg "vncconfig: not found" https://askubuntu.com/questions/1186761/tightvnc-server-on-ubuntu-cant-start-with-vncconfig-not-found 
