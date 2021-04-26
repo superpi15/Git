@@ -20,3 +20,7 @@
 
   - basic https://www.it145.com/9/14104.html 
   - in case X11 broken with msg "vncconfig: not found" https://askubuntu.com/questions/1186761/tightvnc-server-on-ubuntu-cant-start-with-vncconfig-not-found 
+
+## CUDA out-of-memory
+  - https://github.com/pjreddie/darknet/issues/791 
+  - https://github.com/AlexeyAB/darknet you can find this note: Note: if error Out of memory occurs then in .cfg-file you should increase subdivisions=16, 32 or 64
