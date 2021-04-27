@@ -24,3 +24,6 @@
 ## CUDA out-of-memory
   - https://github.com/pjreddie/darknet/issues/791 
   - https://github.com/AlexeyAB/darknet you can find this note: Note: if error Out of memory occurs then in .cfg-file you should increase subdivisions=16, 32 or 64
+
+## CFG config 
+  - https://blog.csdn.net/phinoo/article/details/83022101 
